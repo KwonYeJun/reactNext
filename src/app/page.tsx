@@ -9,6 +9,7 @@ export default function Home() {
       </div>
       <ul>
         <ol><Link href={'/first'}>첫번째 페이지 이동</Link></ol>
+        <ol><Link href={'/2'}>n번째 페이지 이동</Link></ol>
       </ul>
     </>
   )
